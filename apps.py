@@ -89,5 +89,5 @@ def predict_datapoint():
 
 if __name__ == "__main__":
     # app.run(host="0.0.0.0")    
-    # app.run(debug=True, port=8000)  # port: optional, for other  
-    app.run(debug=False, use_reloader=False, port=8000)
+    app.run(debug=True, port=8000)  # port: optional, for other  
+    # app.run(debug=False, use_reloader=False, port=8000)
