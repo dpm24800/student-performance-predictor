@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-1.23%2B-FF4B4B?logo=streamlit) ![Flask](https://img.shields.io/badge/Flask-2.x-000000?logo=flask) ![License](https://img.shields.io/badge/License-MIT-green)
 
-An end-to-end machine learning project that predicts students' math scores based on demographic and academic attributes. Built with a production-ready pipeline architecture and deployed via both Flask and Streamlit interfaces.
+Student Performance Predictor is an end-to-end machine learning project that predicts students' math scores based on demographic and academic attributes. Built with a production-ready pipeline architecture and deployed via both Flask and Streamlit interfaces.
 
 ## Project Overview
 
@@ -143,9 +143,9 @@ Contributions are welcome! Please follow these steps:
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
+Dipak Pulami Magar – [@dpm24800](https://www.linkedin.com/in/dpm24800/)  
 
-Dipak Pulami Magar – [@dpm24800](https://github.com/dpm24800)  
-Project Link: [https://github.com/dpm24800/e2e-ml-project](https://github.com/dpm24800/e2e-ml-project)
+
 
 
 
